@@ -6,7 +6,7 @@
 [电影天堂](http://www.dytt8.net) 
 
 
-[网页代码规范]（http://nec.netease.com/)
+[网页代码规范](http://nec.netease.com) 
 
 
 [网页制作也能学](http://www.w3school.com.cn/html/html_backgrounds.asp) 
