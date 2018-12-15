@@ -1,32 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to 韩茂田 Pages
 
-You can use the [editor on GitHub](https://github.com/hanmaotian/1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你可以到处看看 [电影天堂](http://www.dytt8.net) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[网页制作也能学](http://www.w3school.com.cn/html/html_backgrounds.asp) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[B站](https://www.bilibili.com/) 
 
-# Header 1
-## Header 2
-### Header 3
+### 这个仓库也能当作网上存储仓库使用
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
